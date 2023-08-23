@@ -34,9 +34,8 @@ See the frontend at [https://github.com/fraulueneburg/dansk-fantastisk](https://
 I’m a Full Stack Web Developer and UI/UX Designer currently living in Hamburg, Germany.  
 🧡 Web Accessibility and Usabilitiy
 
-<h2>Want to see more like this?<br />
-Let’s connect</h2>
+<h2>Want to see more like this?</h2>
 
-<a href="https://linkedin.com/in/fraulueneburg" target="_blank">
+Let’s connect: <a href="https://linkedin.com/in/fraulueneburg" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
 </a>
