@@ -16,9 +16,7 @@ See the frontend at [https://github.com/fraulueneburg/dansk-fantastisk](https://
 
 ## Technologies
 
-<img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%23121011.svg?style=for-the-badge&logo=mongodb&logoColor=#f0f0f0" />
-<img alt="Express" src="https://img.shields.io/badge/express-%23121011.svg?style=for-the-badge&logo=express&logoColor=#f0f0f0" />
-<img alt="NodeJS" src="https://img.shields.io/badge/nodejs-%23121011.svg?style=for-the-badge&logo=nodejs&logoColor=#f0f0f0" />
+<img alt="MongoDB" src="https://img.shields.io/badge/mongodb-%23121011.svg?style=for-the-badge&logo=mongodb&logoColor=#f0f0f0" /> <img alt="Express" src="https://img.shields.io/badge/express-%23121011.svg?style=for-the-badge&logo=express&logoColor=#f0f0f0" /> <img alt="NodeJS" src="https://img.shields.io/badge/nodejs-%23121011.svg?style=for-the-badge&logo=nodejs&logoColor=#f0f0f0" />
 
 ---
 
@@ -36,8 +34,8 @@ See the frontend at [https://github.com/fraulueneburg/dansk-fantastisk](https://
 I’m a Full Stack Web Developer and UI/UX Designer currently living in Hamburg, Germany.  
 🧡 Web Accessibility and Usabilitiy
 
-<h2>Interested in more like this?<br />
-Let’s connect on LinkedIn then</h2>
+<h2>Want to see more like this?<br />
+Let’s connect</h2>
 
 <a href="https://linkedin.com/in/fraulueneburg" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
