@@ -1,5 +1,5 @@
 <h1>
-[IN PROGRESS] 👷🇩🇰
+[IN PROGRESS] 👷🇩🇰<br>
 Dansk Fantastisk – A language learning app
 </h1>
 
