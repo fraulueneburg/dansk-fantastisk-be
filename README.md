@@ -1,6 +1,6 @@
 <h1>
 [IN PROGRESS] 👷🇩🇰<br>
-Dansk Fantastisk – A language learning app
+Dansk Fantastisk – A language learning app (Backend)
 </h1>
 
 This is the backend for my current work in progress, a clever Danish language learning app.  
@@ -36,7 +36,7 @@ I’m a Full Stack Web Developer and UI/UX Designer currently living in Hamburg,
 
 <h2>Want to see more like this?</h2>
 
-Let’s connect:
+Let’s connect:  
 <a href="https://linkedin.com/in/fraulueneburg" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
 </a>
